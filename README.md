@@ -9,5 +9,5 @@ Data Analyst with background in Mathematics Education.  I enjoy solving problems
 
 ## Featured Projects
 - Data Cleaning and EDA
-- Regression Analysis
 - Time Series Analysis
+- NLP Classification
