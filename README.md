@@ -1,6 +1,6 @@
 # Hi, I'm James Mitchell
 
-Data Analyst with background in Mathematics Education.  I enjoy solving problems, understanding the systems that make up our world, and learning new things.  I hope to leverage my skills as an educator to clearly present the data discoveries I make.  
+Data Analyst with background in Mathematics Education.  I enjoy solving problems, learning new things, and understanding the systems that make up our world.  I hope to leverage my skills as an educator to clearly present the data discoveries I make.  
 
 ## Tools & Skills
 - **Languages:** Python, SQL, and some familiarity with R
@@ -8,6 +8,11 @@ Data Analyst with background in Mathematics Education.  I enjoy solving problems
 - **Other:** Excel, Git, Jupyter, MLFlow
 
 ## Featured Projects
-- Data Cleaning and EDA
+- Cleaning and EDA
+  - Customer Churn Data
+    
 - Time Series Analysis
+  - Incidents of crime in California
+    
 - NLP Classification
+  - Messy job history records from a non-profit
